@@ -70,7 +70,7 @@ Some regions show consistent low performance, indicating improvement opportuniti
 Sales distribution varies across districts, highlighting market differences
 Data visualization helps in quickly identifying patterns and trends
 
-## Screenshots
+## Project Images
 
 ### Pivot Chart
 <img width="1920" height="1080" alt="Pivot Tables" src="https://github.com/user-attachments/assets/275e76a2-2bf2-42ac-ab78-ebc899dd46b9" />
